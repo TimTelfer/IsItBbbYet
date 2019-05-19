@@ -1,0 +1,35 @@
+.center-screen {
+    height: 200px;
+    width: 400px;
+    line-height: 200px;
+
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+	text-align: center;
+}
+.answer {
+	font-size: 4.8rem;
+	font-weight: 600;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 80px;
+	font-family: 'Lato', sans-serif;
+	color: #35495e;
+}
+.countdown {
+	font-size: 2rem;
+	font-weight: 200;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	color: #35495e;
+}
+.disco {
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+}
